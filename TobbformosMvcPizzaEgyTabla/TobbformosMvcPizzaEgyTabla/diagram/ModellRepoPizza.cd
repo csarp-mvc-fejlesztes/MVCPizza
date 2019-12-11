@@ -3,7 +3,7 @@
   <Class Name="TobbbformosPizzaAlkalmazasEgyTabla.Model.Pizza">
     <Position X="0.5" Y="0.5" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AgABAAAAAAAAAAAAAAAAARAAAAAEAABADAAABQAACgA=</HashCode>
+      <HashCode>AgAJAIAAAAAAAAAAAAAAARAAAAAEBABADAAABQAECgA=</HashCode>
       <FileName>model\Pizza.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -15,7 +15,7 @@
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAIAAgABAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIQggABAAAAAAw=</HashCode>
       <FileName>repository\Repository.cs</FileName>
     </TypeIdentifier>
     <ShowAsCollectionAssociation>
@@ -23,24 +23,10 @@
     </ShowAsCollectionAssociation>
   </Class>
   <Class Name="TobbbformosPizzaAlkalmazasEgyTabla.Repository.RepositoryException">
-    <Position X="6.75" Y="5.25" Width="3.25" />
+    <Position X="4.5" Y="4.25" Width="3.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>repository\RepositoryException.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="TobbbformosPizzaAlkalmazasEgyTabla.Repository.RepositoryDatabase">
-    <Position X="9.25" Y="0.5" Width="2.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAEACAAEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>repository\RepositoryPizzaDatabase.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="TobbbformosPizzaAlkalmazasEgyTabla.Repository.RepositoryTablePizza">
-    <Position X="12" Y="0.5" Width="2.75" />
-    <TypeIdentifier>
-      <HashCode>ABAAAAAAACAAAYgAAAAAAAAAAAAADAAAAAAIAAAAAAA=</HashCode>
-      <FileName>repository\RepositoryPizzaTablePizza.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

@@ -50,7 +50,7 @@
     <Compile Include="FormPizzas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormTesztadatok.cs">
+    <Compile Include="FormTestData.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormPizzaFutarKft.cs">
@@ -74,10 +74,10 @@
     <Compile Include="repository\RepositoryExceptionCantDelete.cs" />
     <Compile Include="repository\RepositoryExceptionCantModified.cs" />
     <Compile Include="repository\RepositoryPizza.cs" />
-    <Compile Include="repository\RepositoryPizzaDatabase.cs" />
-    <Compile Include="repository\RepositoryPizzaTablePizza.cs" />
-    <Compile Include="repository\RepositoryPizzaTablePizzaSQL.cs" />
-    <Compile Include="repository\RepositoryPizzaTablePizzaTestData.cs" />
+    <Compile Include="repository\RepositoryDatabase.cs" />
+    <Compile Include="repository\RepositoryDatabaseTablePizza.cs" />
+    <Compile Include="repository\RepositoryDatabaseTablePizzaSQL.cs" />
+    <Compile Include="repository\RepositoryDatabaseTablePizzaTestData.cs" />
     <EmbeddedResource Include="FormPizzaFutarKft.resx">
       <DependentUpon>FormPizzaFutarKft.cs</DependentUpon>
     </EmbeddedResource>
@@ -91,6 +91,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="diagram\RepositoryDatabasePizza.cd" />
     <None Include="diagram\ModellRepoPizza.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

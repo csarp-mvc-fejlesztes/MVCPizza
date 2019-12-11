@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2019TobbformosMvcPizzaEgyTabla", "2019TobbformosMvcPizzaEgyTabla.csproj", "{1429A0E4-1E27-48C8-8299-A798FED91714}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TobbformosMvcPizzaEgyTabla", "TobbformosMvcPizzaEgyTabla.csproj", "{1429A0E4-1E27-48C8-8299-A798FED91714}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B2AAD315-17CC-4938-8FAD-15049CD1379E}
+		SolutionGuid = {55E93FBF-542D-40AE-AE87-C4E3E104F535}
 	EndGlobalSection
 EndGlobal
