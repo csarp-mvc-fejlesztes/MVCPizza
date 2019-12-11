@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TobbbformosPizzaAlkalmazasEgyTabla.Properties {
+namespace TobbformosMvcPizza.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace TobbbformosPizzaAlkalmazasEgyTabla.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TobbbformosPizzaAlkalmazasEgyTabla.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TobbformosMvcPizza.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

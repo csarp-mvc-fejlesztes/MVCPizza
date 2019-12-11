@@ -1,4 +1,4 @@
-﻿namespace _2019TobbformosMvcPizzaEgyTabla
+﻿namespace TobbformosMvcPizza
 {
     partial class FormPizzaFutarKft
     {
@@ -165,28 +165,24 @@
             this.adatázbázisLétrehozásToolStripMenuItem.Name = "adatázbázisLétrehozásToolStripMenuItem";
             this.adatázbázisLétrehozásToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.adatázbázisLétrehozásToolStripMenuItem.Text = "Adatázbázis létrehozás";
-            this.adatázbázisLétrehozásToolStripMenuItem.Click += new System.EventHandler(this.adatázbázisLétrehozásToolStripMenuItem_Click);
             // 
             // feltöltésTesztadatokkalToolStripMenuItem
             // 
             this.feltöltésTesztadatokkalToolStripMenuItem.Name = "feltöltésTesztadatokkalToolStripMenuItem";
             this.feltöltésTesztadatokkalToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.feltöltésTesztadatokkalToolStripMenuItem.Text = "Feltöltés tesztadatokkal";
-            this.feltöltésTesztadatokkalToolStripMenuItem.Click += new System.EventHandler(this.feltöltésTesztadatokkalToolStripMenuItem_Click);
             // 
             // törölTesztadatokatToolStripMenuItem
             // 
             this.törölTesztadatokatToolStripMenuItem.Name = "törölTesztadatokatToolStripMenuItem";
             this.törölTesztadatokatToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.törölTesztadatokatToolStripMenuItem.Text = "Töröl tesztadatokat";
-            this.törölTesztadatokatToolStripMenuItem.Click += new System.EventHandler(this.törölTesztadatokatToolStripMenuItem_Click);
             // 
             // törölAdatbázisToolStripMenuItem
             // 
             this.törölAdatbázisToolStripMenuItem.Name = "törölAdatbázisToolStripMenuItem";
             this.törölAdatbázisToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.törölAdatbázisToolStripMenuItem.Text = "Töröl adatbázis";
-            this.törölAdatbázisToolStripMenuItem.Click += new System.EventHandler(this.törölAdatbázisToolStripMenuItem_Click);
             // 
             // kilépésToolStripMenuItem
             // 
@@ -293,7 +289,6 @@
             this.buttonMegsem.Text = "Mégsem";
             this.buttonMegsem.UseVisualStyleBackColor = true;
             this.buttonMegsem.Visible = false;
-            this.buttonMegsem.Click += new System.EventHandler(this.buttonMegsem_Click);
             // 
             // panelModositTorolGombok
             // 
@@ -313,7 +308,6 @@
             this.buttonModositPizza.TabIndex = 3;
             this.buttonModositPizza.Text = "Módosít";
             this.buttonModositPizza.UseVisualStyleBackColor = true;
-            this.buttonModositPizza.Click += new System.EventHandler(this.buttonModositPizza_Click);
             // 
             // buttonTorolPizza
             // 
@@ -323,7 +317,6 @@
             this.buttonTorolPizza.TabIndex = 4;
             this.buttonTorolPizza.Text = "Töröl";
             this.buttonTorolPizza.UseVisualStyleBackColor = true;
-            this.buttonTorolPizza.Click += new System.EventHandler(this.buttonTorolPizza_Click);
             // 
             // buttonUjMentes
             // 
@@ -334,7 +327,6 @@
             this.buttonUjMentes.Text = "Új mentése";
             this.buttonUjMentes.UseVisualStyleBackColor = true;
             this.buttonUjMentes.Visible = false;
-            this.buttonUjMentes.Click += new System.EventHandler(this.buttonUjMentes_Click);
             // 
             // panelPizza
             // 
@@ -356,7 +348,6 @@
             this.textBoxPizzaAr.Name = "textBoxPizzaAr";
             this.textBoxPizzaAr.Size = new System.Drawing.Size(136, 20);
             this.textBoxPizzaAr.TabIndex = 5;
-            this.textBoxPizzaAr.TextChanged += new System.EventHandler(this.textBoxPizzaAr_TextChanged);
             // 
             // labelPizzaAr
             // 
@@ -373,7 +364,6 @@
             this.textBoxPizzaNev.Name = "textBoxPizzaNev";
             this.textBoxPizzaNev.Size = new System.Drawing.Size(136, 20);
             this.textBoxPizzaNev.TabIndex = 3;
-            this.textBoxPizzaNev.TextChanged += new System.EventHandler(this.textBoxPizzaNev_TextChanged);
             // 
             // labelPizzaNev
             // 
@@ -410,7 +400,6 @@
             this.buttonUjPizza.Text = "Új";
             this.buttonUjPizza.UseVisualStyleBackColor = true;
             this.buttonUjPizza.Visible = false;
-            this.buttonUjPizza.Click += new System.EventHandler(this.buttonUjPizza_Click);
             // 
             // buttonBetoltesPizzak
             // 
@@ -420,7 +409,6 @@
             this.buttonBetoltesPizzak.TabIndex = 1;
             this.buttonBetoltesPizzak.Text = "Betöltés";
             this.buttonBetoltesPizzak.UseVisualStyleBackColor = true;
-            this.buttonBetoltesPizzak.Click += new System.EventHandler(this.buttonBetoltesPizzak_Click);
             // 
             // dataGridViewPizzak
             // 

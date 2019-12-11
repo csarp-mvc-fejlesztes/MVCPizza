@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TobbbformosPizzaAlkalmazasEgyTabla.Properties {
+namespace TobbformosMvcPizza.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
