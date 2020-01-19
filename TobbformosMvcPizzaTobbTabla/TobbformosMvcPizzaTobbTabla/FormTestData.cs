@@ -67,13 +67,13 @@ namespace TobbformosMvcPizzaTobbTabla
                 rdCustomer.createTableCustomer();
                 rdCourier.createTableCourier();
                 rdOrder.createTableOrder();
-                rdItem.createTableOrder();
+                rdItem.createTableItem();
 
                 rdPizza.fillPizzasWithTestDataFromSQLCommand();
                 rdCustomer.fillCustomerkWithTestDataFromSQLCommand();
                 rdCourier.fillCourierWithTestDataFromSQLCommand();
                 rdOrder.fillOrderWithTestDataFromSQLCommand();
-                rdItem.fillOrderWithTestDataFromSQLCommand();
+                rdItem.fillItemWithTestDataFromSQLCommand();
             }
             catch (Exception ex)
             {
